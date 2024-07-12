@@ -1,0 +1,1 @@
+U6899-7808 Everything is inside the tasks.js, TaskGenerator.js, FancyText.js, Footer.js, App.js, and App.css. The goal of this project is to create a task managment that creates a list of tasks that changes upon the click of a button with a checkbox to show completion. 
